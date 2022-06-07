@@ -1,0 +1,350 @@
+ <section id="r-faq-section">
+            <div class="r-faq-section r-faq-white-bg">
+                <div class="container">
+                    <div class="row v-align-center r-faq-header-wrapper">
+                        <div class="col-md-6 col-sm-12">
+                            <div class="r-faq-header">
+                                <span>FIND YOUR ANSWER HERE</span>
+                                <h2>Frequenly <strong>Ask &amp; Questions.</strong></h2>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul class="nav nav-tabs r-faq-option-tab" id="myTab" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="faq-01-tab" data-toggle="tab" href="#faq-01" role="tab" aria-controls="faq-01" aria-selected="true"><i class="fa fa-user "></i>About account</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="faq-02-tab" data-toggle="tab" href="#faq-02" role="tab" aria-controls="faq-02" aria-selected="false"><i class="fa fa-question-circle"></i>Technical support</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="faq-03-tab" data-toggle="tab" href="#faq-03" role="tab" aria-controls="faq-03" aria-selected="false"><i class="fa fa-car"></i>Cars Features</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="tab-content" id="myTabContent-01">
+                        <div class="tab-pane fade show active" id="faq-01" role="tabpanel" aria-labelledby="faq-01-tab">
+                            <div class="row r-faq-accordion-wrapper">
+                                <div class="col-lg-6 col-md-12">
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> How to reserved a car here?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> How can i drop the rental car?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> What happen if i crash the car?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> How can i select a car rent?
+                                        </div>
+                                        <div class="r-accordion-body" style="display: none;">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> Do you have VIP access to airport?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> What happen if i crash the car?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="faq-02" role="tabpanel" aria-labelledby="faq-02-tab">
+                            <div class="row r-faq-accordion-wrapper">
+                                <div class="col-lg-6 col-md-12">
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> How can i select a car rent?
+                                        </div>
+                                        <div class="r-accordion-body" style="display: none;">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> Do you have VIP access to airport?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> What happen if i crash the car?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> How to reserved a car here?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> How can i drop the rental car?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> What happen if i crash the car?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="faq-03" role="tabpanel" aria-labelledby="faq-03-tab">
+                            <div class="row r-faq-accordion-wrapper">
+                                <div class="col-lg-6 col-md-12">
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> How can i drop the rental car?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> What happen if i crash the car?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> How to reserved a car here?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> Do you have VIP access to airport?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> What happen if i crash the car?
+                                        </div>
+                                        <div class="r-accordion-body">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                    <div class="r-accordion">
+                                        <div class="r-accordion-heading">
+                                            <span class="r-accordion-toggle">
+                              <i class="fa-arrow-circle-down fa"></i>
+                            </span> How can i select a car rent?
+                                        </div>
+                                        <div class="r-accordion-body" style="display: none;">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat adipiscing dolgedo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- /r-accordion -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <a href="#" class="btn-primary icon-btn"> <i class="fa fa-question-circle icon"></i> MAKE A QUESTIONS </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="r-counter-section r-counter-with-bg m-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="r-counter-box">
+                            <div class="r-counter-icon">
+                                <img src="assets/images/icon-happy-customer-white.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="r-counts" data-count="172700">
+                                <!-- 1.172.700 -->
+                                <span class="r-count">0</span>
+                            </div>
+                            <span class="r-count-title"> HAPPY CUSTOMERS </span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="r-counter-box">
+                            <div class="r-counter-icon">
+                                <img src="assets/images/icon-cars-count-white.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="r-counts" data-count="2450">
+                                <!-- 2.450 -->
+                                <span class="r-count">0</span>
+
+                            </div>
+                            <span class="r-count-title"> CARS IN GARAGE </span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="r-counter-box">
+                            <div class="r-counter-icon">
+                                <img src="assets/images/icon-total-km-white.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="r-counts" data-count="1211100">
+                                <!-- 1.211.100 -->
+                                <span class="r-count">0</span>
+                            </div>
+                            <span class="r-count-title"> TOTAL KILOMETER/MIL </span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="r-counter-box">
+                            <div class="r-counter-icon">
+                                <img src="assets/images/icon-car-center-white.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="r-counts" data-count="47250">
+                                <!-- 47.250 -->
+                                <span class="r-count">0</span>
+                            </div>
+                            <span class="r-count-title"> CAR CENTER SOLUTIONS </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
